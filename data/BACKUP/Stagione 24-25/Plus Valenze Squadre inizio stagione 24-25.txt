@@ -1,0 +1,9 @@
+Atletico= 937.0
+Zarro= 351.0
+Special= 348.0
+Real= 161.0
+Spal= 373.0
+Panzer= 935.0
+Cammelloni= 878.0
+Bombe= 430.0
+Plus valenza media delle squadre= 551.625
